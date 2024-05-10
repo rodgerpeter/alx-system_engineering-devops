@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Displays listening ports. Includes listening sockets as well
+# + as the PID name of the program to which socket each socket belongs
+
+netsat -l --program
